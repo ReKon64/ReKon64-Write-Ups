@@ -9,7 +9,4 @@ Writing about a box without publicly available solutions showcases the writer's 
 On another hand, creating a write-up about a machine which's secrets have been exposed to the public does not guarantee the same level of transparency.
 
 ## Credibility
-To maintain credibility, I will upload password-protected archive containing the write-up, alongside it's checksum BEFORE the machine is retired.
-After it's retired the password will be made public. I will also upload the writeup after that for sake of viewers comfort.
-
-This checks all the boxes for credibility, confidentiality ,integrity & availibity *wink wink*.
+After pwn'ing the machine I will post the proof that HTB provides on my LinkedIn profile.
